@@ -1,7 +1,6 @@
-### Salve gente 👋
+### Hey guys 👋
 
-Sono uno studente di informatica appassionato di elettronica ed Arduino. 
-Esploro con entusiasmo l'intersezione tra il mondo digitale e quello fisico, creando progetti che combinano abilmente la programmazione con l'utilizzo di Arduino. La mia passione si concentra sull'automazione, i sensori e la robotica, mentre cerco costantemente nuove sfide per ampliare le mie competenze nel campo dell'elettronica e dello sviluppo software.
+I am a computer science student with a passion for electronics and Arduino. I enthusiastically explore the intersection between the digital and physical world, creating projects that skillfully combine programming with the use of Arduino. My passion lies in automation, artificial intelligence, and hydroponic systems.
 
 <!--
 **shokk47/shokk47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
