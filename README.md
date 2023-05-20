@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="40" height="40" />
 
 <!--
 **shokk47/shokk47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
