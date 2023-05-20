@@ -1,4 +1,6 @@
-### Hi there 👋 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="40" height="40" />
+### Salve gente 👋
+
+Sono uno studente di informatica appassionato di elettronica ed Arduino. Mi piace esplorare il connubio tra il mondo digitale e quello fisico, sperimentando con progetti di automazione, sensori e robotica. Sono appassionato di programmazione e mi piace utilizzare Arduino come piattaforma per creare prototipi e realizzare progetti interattivi. Sono sempre alla ricerca di nuove sfide e opportunità per ampliare le mie competenze nel campo dell'elettronica e sviluppo software.
 
 <!--
 **shokk47/shokk47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
