@@ -2,7 +2,7 @@
 
 I am a computer science student with a passion for electronics and Arduino. I enthusiastically explore the intersection between the digital and physical world, creating projects that skillfully combine programming with the use of Arduino. My passion lies in automation, artificial intelligence, and hydroponic systems.
 
-Last project: [Soft.Eng - Battleship Java]([https://www.google.com](https://github.com/softeng2223-inf-uniba/progetto2223-thacker))
+Last project: [Soft.Eng - Battleship Java](https://github.com/softeng2223-inf-uniba/progetto2223-thacker)
 
 <!--
 **shokk47/shokk47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
